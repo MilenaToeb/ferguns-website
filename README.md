@@ -1,3 +1,22 @@
+# Ferguns-website
+
+E-commerce website built with Next.js, featuring a product catalog, clean UI and authentication.
+
+Tech Stack:
+*Frontend* Next.js (React + TypeScript)
+*Styling* Tailwind CSS
+*Database* Supabase (PostgreSQL)
+*Deployment* Vercel
+
+Features:
+-Product listing and details
+-Responsive design 
+-Simple, minimal UI
+-Authentication
+-Cart 
+-Checkout
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
